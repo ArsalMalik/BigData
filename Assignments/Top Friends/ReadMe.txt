@@ -1,7 +1,7 @@
 ==============================
-		USAGE
+		ReadMe
 ==============================
 
-
-$ hadoop jar HW1_Q2.jar soc-LiveJournal1Adj.txt <outputIntermediateFile> <outputFinalFile>
-
+Finding the top 10 pair of friends,
+who have the most number of mutual
+friends.

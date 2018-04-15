@@ -1,7 +1,6 @@
 ==============================
-		USAGE
+		ReadMe
 ==============================
 
-
-$ hadoop jar HW1_Q1.jar soc-LiveJournal1Adj.txt <outputFile> <User1> <User2>
-
+Finding mutual friends for a 
+given pair of friends.

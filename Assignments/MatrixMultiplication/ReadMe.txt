@@ -1,7 +1,10 @@
 ==============================
-		USAGE
+		ReadMe	
 ==============================
 
+Multiplying two matrices given in the form,
 
-$ hadoop jar HW1_Q5.jar <inputFile> <outputIntermediateFile> <outputFinalFile>
+A, i, j, Aij
+B, j, k, Bjk
 
+using two Map-Reduce jobs (Job Chaining).

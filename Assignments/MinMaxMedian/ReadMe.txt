@@ -1,7 +1,6 @@
 ==============================
-		USAGE
+		ReadMe
 ==============================
 
-
-$ hadoop jar HW1_Q4.jar numbers.txt <outputFile>
-
+Calculating minimum, maximum, and median
+ of a list of numbers in numbers.txt.
