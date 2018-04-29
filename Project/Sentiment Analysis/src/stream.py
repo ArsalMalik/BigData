@@ -5,10 +5,10 @@ import nltk
 from geolocation.main import GoogleMaps
 
 # Authorization tokens to use tweepy API
-ACCESS_TOKEN = '213398955-nuIELW0EBS0uKNoa4pz5nsA5PK7z05SnaNLaXOzY'
-ACCESS_SECRET = 'X9UpKrFFTGaZqrmH2ln4eBlyHOssdEBdrFD3mKZz6lwgZ'
-CONSUMER_KEY = 'pqS0lmjWDbtLLE5iztHA4xSh5'
-CONSUMER_SECRET = 'EphloTtqg5uuY7oDcm2QxTc2GFzRKTXIcvOhapiR9Gf77cC1EA'
+ACCESS_TOKEN = '[Access_Token]'
+ACCESS_SECRET = '[Access_Secret]'
+CONSUMER_KEY = '[Consumer_Key]'
+CONSUMER_SECRET = '[Consumer_Secret]'
 
 # Authorizing tweepy 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
